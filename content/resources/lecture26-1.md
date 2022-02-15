@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/886d2090c59f9b9d8f5049e7872cc5cb_lecture26.pdf
+file: /media/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/886d2090c59f9b9d8f5049e7872cc5cb_lecture26.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: lecture26.pdf
 uid: 886d2090-c59f-9b9d-8f50-49e7872cc5cb

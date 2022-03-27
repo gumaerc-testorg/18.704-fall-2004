@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 01120f78-9477-cd7e-5075-23f35874c938
 resourcetype: Document
 title: lecture9.pdf
 uid: 45c3e804-fcc8-17e7-1206-4fa6620a4c4a

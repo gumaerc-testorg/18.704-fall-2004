@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: f6c1a3aa-e18e-775d-4825-096da39a5e80
 resourcetype: Document
 title: lecture20.pdf
 uid: 4c4a48b9-ef96-844f-4d22-8e890ca86c88

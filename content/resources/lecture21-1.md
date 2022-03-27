@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 01120f78-9477-cd7e-5075-23f35874c938
 resourcetype: Document
 title: lecture21.pdf
 uid: d77cba6a-2a04-60fd-d5b7-6725695cf3c0

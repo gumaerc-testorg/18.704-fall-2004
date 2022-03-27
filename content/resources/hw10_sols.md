@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4f132748-1a5d-695f-b670-ff459908e75b
 resourcetype: Document
 title: hw10_sols.pdf
 uid: 3a75ea4d-af6b-9259-9b7d-101c5d07f4a0

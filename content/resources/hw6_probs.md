@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4f132748-1a5d-695f-b670-ff459908e75b
 resourcetype: Document
 title: hw6_probs.pdf
 uid: 8a3ed945-ae17-c1a3-2864-76ef9be4a395

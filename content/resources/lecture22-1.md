@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 01120f78-9477-cd7e-5075-23f35874c938
 resourcetype: Document
 title: lecture22.pdf
 uid: bc75f8e3-76f9-f688-daea-7df1912195d1

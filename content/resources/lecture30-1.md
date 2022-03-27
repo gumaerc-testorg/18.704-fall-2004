@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 01120f78-9477-cd7e-5075-23f35874c938
 resourcetype: Document
 title: lecture30.pdf
 uid: 5f4ec727-f551-9235-7d6d-34c90fd69bc7

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: These are directions suggested to students on how to prepare their lectures.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +8,7 @@ title: Lecture Notes
 uid: f6c1a3aa-e18e-775d-4825-096da39a5e80
 ---
 
-These are directions suggested to students on how to prepare their lectures. ([PDF]({{< baseurl >}}/resources/lecture_advice))
+These are directions suggested to students on how to prepare their lectures. ({{% resource_link b71f7ca6-b75d-c0aa-c3dc-2a12f241635f "PDF" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -33,9 +34,9 @@ LECTURE NOTES
 The Projective Plane
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF 1]({{< baseurl >}}/resources/lecture1))  
+({{% resource_link bb69a25f-0914-0da0-6cb3-072a923b09e1 "PDF 1" %}})  
   
-([PDF 2]({{< baseurl >}}/resources/lecture2))
+({{% resource_link 534efdcb-5912-7b6b-605c-fa16aaa4d635 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +48,7 @@ The Projective Plane
 Curves in the Projective Plane
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture3))
+({{% resource_link 322976d1-cbb6-ab7f-10c7-255dde0c5823 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +60,7 @@ Curves in the Projective Plane
 Rational Points on Conics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture4))
+({{% resource_link f9830a15-8c77-f6ba-8d9d-c56b9b2a9190 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +72,7 @@ Rational Points on Conics
 Geometry of Cubic Curves
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture5))
+({{% resource_link f0cb4ffe-4cba-a31f-6287-e33600e57c38 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,9 +84,9 @@ Geometry of Cubic Curves
 Weierstrass Normal Form
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture6))  
+({{% resource_link 40ac09a5-0051-afe1-d484-7e2b3ca95707 "PDF" %}})  
   
-([PDF]({{< baseurl >}}/resources/lecture7))
+({{% resource_link d5303a92-bc6e-f710-e6b0-cb59b7ae0ef6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Weierstrass Normal Form
 Explicit Formulas for the Group Law
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture8))
+({{% resource_link 831a969e-23e7-ad45-9923-8c02bc7c86e6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Explicit Formulas for the Group Law
 Points of Order Two and Three
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture9))
+({{% resource_link 172da5a6-3608-a57b-d4de-a31548a1ef93 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,7 +124,7 @@ The Discriminant
 Points of Finite Order have Integer Coordinates - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture10))
+({{% resource_link 85905a0c-58e4-2e7a-352c-4470e7c62436 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +136,7 @@ Points of Finite Order have Integer Coordinates - Part 1
 Points of Finite Order have Integer Coordinates - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture11))
+({{% resource_link 472049a3-ec6c-1786-d91f-eeddf30e2a74 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +150,7 @@ Points of Finite Order have Integer Coordinates - Part 3
 The Nagell-Lutz Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture12))
+({{% resource_link 8a53b4bf-2608-8816-893c-30ebe30f61f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +162,7 @@ The Nagell-Lutz Theorem
 Real and Complex Points on Cubics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture13))
+({{% resource_link 5b760c69-449a-679a-95e8-46603cec418d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +174,7 @@ Real and Complex Points on Cubics
 Heights and Descent
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture14))
+({{% resource_link d5f8dbc6-6937-7791-8840-578e258873f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -185,7 +186,7 @@ Heights and Descent
 Height of P + P\_0
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture15))
+({{% resource_link 27e6a027-6a50-e872-d720-3954f7ee3760 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +198,7 @@ Height of P + P\_0
 Height of 2P
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture16))
+({{% resource_link 8aaa9e8c-ebf9-0c1d-d119-c835ebba0a37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -209,7 +210,7 @@ Height of 2P
 A Useful Homomorphism - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture17))
+({{% resource_link 1ff572ab-c874-0bc1-f122-f1f2388bd6e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -221,7 +222,7 @@ A Useful Homomorphism - Part 1
 A Useful Homomorphism - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture18))
+({{% resource_link ef5bf88d-f3e5-3d43-4afa-ff9f99927757 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +234,7 @@ A Useful Homomorphism - Part 2
 Mordell's Theorem - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture19))
+({{% resource_link 045aa989-61a3-31ac-eed6-8bc922b2f573 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +248,7 @@ Mordell's Theorem - Part 2
 Examples - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture20))
+({{% resource_link 4c4a48b9-ef96-844f-4d22-8e890ca86c88 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,7 +260,7 @@ Examples - Part 1
 Examples - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture21))
+({{% resource_link 1310e06e-497f-b00f-9430-f25e60228093 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -271,7 +272,7 @@ Examples - Part 2
 Examples - Part 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture22))
+({{% resource_link 639b472d-9c4e-9e99-9363-e3b9cf01af08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,7 +284,7 @@ Examples - Part 3
 Singular Cubics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture23))
+({{% resource_link ffbe87b4-24fe-88d6-0f84-77ab4fb72458 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -295,7 +296,7 @@ Singular Cubics
 Rational Points over Finite Fields
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture24))
+({{% resource_link c4ddeeff-2f53-b2b3-3908-10658f26271f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +308,7 @@ Rational Points over Finite Fields
 Gauss's Theorem - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture25))
+({{% resource_link c1554561-df23-af83-56d8-542ed0827d2a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +320,7 @@ Gauss's Theorem - Part 1
 Gauss's Theorem - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture26))
+({{% resource_link d050aaf6-6827-e23d-4145-c0fe8519e4ec "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -331,7 +332,7 @@ Gauss's Theorem - Part 2
 Points of Finite Order Revisited
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture27))
+({{% resource_link 50d404b0-386c-6ca8-022e-b44e25a7c640 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,7 +344,7 @@ Points of Finite Order Revisited
 Factorization using Elliptic Curves - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture28))
+({{% resource_link da58295e-8269-8a4f-d00b-91a83e9c7cad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -355,7 +356,7 @@ Factorization using Elliptic Curves - Part 1
 Factorization using Elliptic Curves - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture29))
+({{% resource_link 3b2c2e87-d324-6876-2bcb-76a942ba9432 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -369,7 +370,7 @@ Integer Points on Cubics
 Taxicabs - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture30))
+({{% resource_link 6920ad2f-556c-b7a7-cdb4-00744abd1559 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +384,7 @@ Taxicabs - Part 2
 Thue's Theorem - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture31))
+({{% resource_link 9ac3f644-bd4b-f7bc-3901-13ffd7360aca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -395,7 +396,7 @@ Thue's Theorem - Part 1
 Thue's Theorem - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture32))
+({{% resource_link f5772bb6-30bf-712d-5c5d-c411fc6d46ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -407,7 +408,7 @@ Thue's Theorem - Part 2
 Construction of an Auxiliary Polynomial
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture33))
+({{% resource_link fb0de8b5-4f42-d3fd-4fe2-f432e0067f48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -419,7 +420,7 @@ Construction of an Auxiliary Polynomial
 The Auxiliary Polynomial is Small
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture34))
+({{% resource_link 3db7b4fd-3c7d-9f66-6abb-72f462f82383 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -431,7 +432,7 @@ The Auxiliary Polynomial is Small
 The Auxiliary Polynomial Does Not Vanish
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture35))
+({{% resource_link dc34b431-0e54-6d3d-8be8-efe02ce91baf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -445,7 +446,7 @@ Proof of the DAT
 Further Developments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture36))
+({{% resource_link 67d83149-a4f9-0d33-f4ff-35cfd8e580ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -457,7 +458,7 @@ Further Developments
 Congruent Numbers and Elliptic Curves I: Koblitz - Part 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture37))
+({{% resource_link 43668701-352f-f4e0-606d-418954544622 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -469,7 +470,7 @@ Congruent Numbers and Elliptic Curves I: Koblitz - Part 1
 Congruent Numbers and Elliptic Curves II: Koblitz - Part 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lecture38))
+({{% resource_link 51cb07e1-2952-da9b-c859-7df29246f5ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

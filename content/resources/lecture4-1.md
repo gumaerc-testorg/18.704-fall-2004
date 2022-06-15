@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/7d50d4ca08f262c76dbfb57fe6725788_lecture4.pdf
+file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/7d50d4ca08f262c76dbfb57fe6725788_lecture4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -5,6 +5,7 @@ file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-el
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture23.pdf
 uid: ffbe87b4-24fe-88d6-0f84-77ab4fb72458
 ---
 Handwritten lecture notes.
-

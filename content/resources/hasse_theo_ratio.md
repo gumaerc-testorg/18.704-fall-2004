@@ -6,6 +6,7 @@ file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-el
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hasse_theo_ratio.pdf
 uid: 1ae4ca94-400b-745d-e9ce-d399c261ffef
 ---
 Example of a student's project report. (Courtesy of Dilip Das. Used with permission.)
-

@@ -5,6 +5,7 @@ file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-el
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lugo.pdf
 uid: 8e59e1b1-9f6a-a24f-a60a-9851178dc607
 ---
 (Courtesy of Dilip Das. Used with permission.)
-

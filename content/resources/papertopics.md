@@ -6,6 +6,7 @@ file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-el
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: papertopics.pdf
 uid: 90c1fad5-4593-eace-7a57-40f84db5e1cb
 ---
 This resource contains some suggested paper topics and references for students.
-

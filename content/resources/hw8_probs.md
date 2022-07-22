@@ -7,6 +7,7 @@ file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-el
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: hw8_probs.pdf
 uid: 656d3e76-9248-da92-1093-982abde6f807
 ---
 Three problems assigned from the course textbook: "Rational Points on Elliptic Curves" by Silverman and Tate, Springer Verlag, 1992. Problems marked with an asterisk are more challenging exercises that are optional but not required
-

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains some suggested paper topics and references for
   students.
 file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/90c1fad54593eace7a5740f84db5e1cb_papertopics.pdf
+file_size: 49536
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/d77cba6a2a0460fdd5b76725695cf3c0_lecture21.pdf
+file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/d77cba6a2a0460fdd5b76725695cf3c0_lecture21.pdf
 file_size: 409644
 file_type: application/pdf
 learning_resource_types:

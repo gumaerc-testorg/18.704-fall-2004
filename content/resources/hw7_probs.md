@@ -3,7 +3,7 @@ content_type: resource
 description: 'Four problems assigned from the course textbook: "Rational Points on
   Elliptic Curves" by Silverman and Tate, Springer Verlag, 1992. Problems marked with
   an asterisk are more challenging exercises that are optional but not required'
-file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/34731596814d910f6f985295ae5929aa_hw7_probs.pdf
+file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/34731596814d910f6f985295ae5929aa_hw7_probs.pdf
 file_size: 43745
 file_type: application/pdf
 learning_resource_types:

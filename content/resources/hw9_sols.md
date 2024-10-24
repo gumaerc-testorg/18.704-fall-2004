@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Solutions to the  problems assigned from the course textbook: "Rational
   Points on Elliptic Curves" by Silverman and Tate, Springer Verlag, 1992.'
-file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/5aefdb9964ae8d6d85aaa818a94bd3a3_hw9_sols.pdf
+file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/5aefdb9964ae8d6d85aaa818a94bd3a3_hw9_sols.pdf
 file_size: 76560
 file_type: application/pdf
 learning_resource_types:

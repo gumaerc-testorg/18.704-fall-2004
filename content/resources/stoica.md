@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Example of an anonymous student's project report.
-file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/ab114fde1fdfe88920be2a6118b81e39_stoica.pdf
+file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/ab114fde1fdfe88920be2a6118b81e39_stoica.pdf
 file_size: 98263
 file_type: application/pdf
 learning_resource_types:

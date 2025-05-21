@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Handwritten lecture notes.
-file: /ol-ocw-studio-app/courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/f9830a158c77f6ba8d9dc56b9b2a9190_lecture4.pdf
+file: /courses/18-704-seminar-in-algebra-and-number-theory-rational-points-on-elliptic-curves-fall-2004/f9830a158c77f6ba8d9dc56b9b2a9190_lecture4.pdf
 file_size: 148383
 file_type: application/pdf
 learning_resource_types:
